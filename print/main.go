@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	// Shorthand to decleare a variable
+	// Shorthand to declare a variable
 	name := "Shantilal"
 	age := 26
 	height := 5.823558
